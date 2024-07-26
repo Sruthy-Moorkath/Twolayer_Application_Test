@@ -47,6 +47,7 @@
                     <td>
                         <asp:Button ID="btnlogin" runat="server" OnClick="btnlogin_Click" Text="Login" />
                         <input id="Reset1" type="reset" value="reset" />
+                        <asp:Button ID="Button1" runat="server" Text="Button" />
                     </td>
                 </tr>
                 <tr>
